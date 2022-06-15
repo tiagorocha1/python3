@@ -6,4 +6,5 @@
 - Tipagem dinâmica e forte;
 - Multiplataforma;
 - Padrão Snake_Case para nomes de variáveis;
-- Suporta o paradigma orientado a objetos, imperativo, funcional e procedural
+- Suporta o paradigma orientado a objetos, imperativo, funcional e procedural;
+- Possui um grande número de bibliotecas, nativas e de terceiros.
