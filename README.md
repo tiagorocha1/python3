@@ -1,5 +1,6 @@
 # Python
 ## Características 
+- É uma linguagem de programação de alto nível
 - Interpretada;
 - Tipagem dinâmica e forte;
 - Multiplataforma;
